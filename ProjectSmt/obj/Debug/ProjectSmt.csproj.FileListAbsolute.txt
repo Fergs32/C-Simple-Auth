@@ -1,0 +1,7 @@
+C:\Users\Home\source\repos\ProjectSmt\ProjectSmt\bin\Debug\ProjectSmt.exe.config
+C:\Users\Home\source\repos\ProjectSmt\ProjectSmt\bin\Debug\ProjectSmt.exe
+C:\Users\Home\source\repos\ProjectSmt\ProjectSmt\bin\Debug\ProjectSmt.pdb
+C:\Users\Home\source\repos\ProjectSmt\ProjectSmt\obj\Debug\ProjectSmt.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\ProjectSmt\ProjectSmt\obj\Debug\ProjectSmt.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\ProjectSmt\ProjectSmt\obj\Debug\ProjectSmt.exe
+C:\Users\Home\source\repos\ProjectSmt\ProjectSmt\obj\Debug\ProjectSmt.pdb
